@@ -1,4 +1,4 @@
-# dash-what-you-want
+# Dash what (the hell) you want
 
 An Arduino project based on ESP8266 board to emulate Amazon® Dash Buttons to do everything you want.
 
